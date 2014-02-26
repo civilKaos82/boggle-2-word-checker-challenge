@@ -2,9 +2,9 @@
 
 ##Learning Competencies
 
-* Model a simple real-world procedure in Ruby.
+* Model a simple real-world procedure in Ruby
 * Method definition, arguments, and return values
-* Common string methods
+* Implement common string methods
 * Simple algorithms and data structures
 
 ##Summary
